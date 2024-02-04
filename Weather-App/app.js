@@ -1,4 +1,4 @@
-const apikey = "0uoHAEuHGnOsdlvujhLbgfKBkaU8ZW8g";
+const apikey = "YOUR API KEY";
 function fetchWeather(event) {
   event.preventDefault();
   let city = document.getElementById("search").value;
